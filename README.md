@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @PhoenixOrigin
+- 👋 I’m phoenix
 - 👀 I’m interested in java
-- 🌱 I’m currently learning shit
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me- phoenix#1691 on discord
+- 📫 How to reach me- phoenix.owo on discord
 - The new discord username update is shit :)
 
 <!---
