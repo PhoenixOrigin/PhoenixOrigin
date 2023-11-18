@@ -1,5 +1,5 @@
 <img src="https://github.com/PhoenixOrigin/PhoenixOrigin/blob/main/header.png?raw=true">
-I'm a 17 year old british guy that wastest time making stupid projects no one is ever gonna use :)
+I'm a 17 year old british guy that wastes time making stupid projects no one is ever gonna use :)
 
 ### More about me- https://phoenix.is-a.dev
 
