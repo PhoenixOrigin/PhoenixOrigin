@@ -1,6 +1,6 @@
 <img src="https://github.com/PhoenixOrigin/PhoenixOrigin/blob/main/header.png?raw=true">
 I'm a 17 year old british guy that wastes time making stupid projects no one is ever gonna use :)
-
+![](https://komarev.com/ghpvc/?username=PhoenixOrigin&style=for-the-badge)
 ### More about me- https://phoenix.is-a.dev
 
 # 💻 Tech Stack:
@@ -9,7 +9,7 @@ I'm a 17 year old british guy that wastes time making stupid projects no one is 
 ![](https://github-readme-stats.vercel.app/api?username=PhoenixOrigin&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhoenixOrigin&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixOrigin&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://komarev.com/ghpvc/?username=PhoenixOrigin&style=for-the-badge)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PhoenixOrigin&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
