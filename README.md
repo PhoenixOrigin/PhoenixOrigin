@@ -24,5 +24,5 @@ I'm a 17 year old british guy that wastes time making stupid projects no one is 
 -> Play wynncraft<br>
 
 ## Contacting me
--> Discord 
-[![Discord Presence]([https://lanyard.cnrad.dev/api/:id](https://lanyard-profile-readme.vercel.app/api/780889323162566697?idleMessage=Currently%20not%20doing%20anyhting&showDisplayName=true))](https://discord.com/users/780889323162566697)
+### -> Discord <br>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/780889323162566697?idleMessage=Currently%20not%20doing%20anyhting&showDisplayName=true)](https://discord.com/users/780889323162566697)
