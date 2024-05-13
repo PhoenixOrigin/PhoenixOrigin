@@ -15,13 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## What I do
-
--> Code discord bots<br>
--> Make minecraft mods<br>
--> Scrape the wynncraft API<br>
--> Play wynncraft<br>
-
 ## Contacting me
 ### -> Discord <br>
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/780889323162566697?idleMessage=Currently%20not%20doing%20anyhting&showDisplayName=true)](https://discord.com/users/780889323162566697)
